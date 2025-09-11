@@ -18,8 +18,5 @@ dependencies = [
   "django>=4.0"
 ]
 [project.urls]
-Homepage = "https://github.com/HelloOjasMutreja/django-reusable-libraries-base-users"
-Issues = "https://github.com/HelloOjasMutreja/django-reusable-libraries-base-users/issues"
-
-[project.urls]
 Homepage = "https://github.com/HelloOjasMutreja/DRL-BasicUserModel"
+Issues = "https://github.com/HelloOjasMutreja/DRL-BasicUserModelissues"
