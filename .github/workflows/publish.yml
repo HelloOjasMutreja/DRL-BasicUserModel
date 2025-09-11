@@ -29,4 +29,4 @@ jobs:
         with:
           user: __token__
           password: ${{ secrets.TEST_PYPI_API_TOKEN }}
-          repository-url: https://test.pypi.org/simple/django-reusable-libraries-base-users/.
+          repository-url: https://test.pypi.org/legacy/
