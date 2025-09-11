@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "django_reusable_libraries-base_users"
-version = "0.1.0"
+version = "0.1.2"
 description = "Reusable Django app for user login, logout, and profile management"
 readme = "README.md"
 requires-python = ">=3.8"
